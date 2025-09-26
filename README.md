@@ -3,7 +3,7 @@
 Based on [Everforest](https://github.com/sainnhe/everforest) Color Scheme by [Sainnhe](https://github.com/sainnhe).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thmatosbr/mattermost-everforest-dark/main/preview.png"/>
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f3c51e2a-0b5f-4d77-aec8-26b7aeab24a7" />
 </p>
 
 ```json
